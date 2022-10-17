@@ -1,0 +1,21 @@
+h1{
+    color: darkblue;
+    background-color: chartreuse;
+}
+h4{
+    color: brown;
+}
+
+.pagenot{
+    color: brown;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 80px;
+}
+.navbar{
+    background-color: aqua;
+}
+
+.input-group {
+    margin-left: 600px;
+}
