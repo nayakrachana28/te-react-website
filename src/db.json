@@ -1,0 +1,19 @@
+{
+    "card":[
+        {
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-advice1.jpg",
+            "card_name":"Assets of investors",
+            "card_des":"All operations of the company's projects are maintained at the expense of assets of investors."
+        },
+        {
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-advice2.jpg",
+            "card_name":"Directions",
+            "card_des":"The team works in two directions: portfolio investment, where is the lowest risk, and investments in startups."
+        }, {
+            "image":"https://template55984.motopreview.com/mt-demo/55900/55984/mt-content/uploads/2015/11/mt-0239-home-advice3.jpg",
+            "card_name":"Support",
+            "card_des":"If you have a question, you can always call our hotline, and operators will be happy to help you!"
+        }
+        
+    ]
+}

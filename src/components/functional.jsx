@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/functional.css'
+//import '../styles/functional.css'
 
 /*export default function functionalComponents(){
     return <h1>I am First Functional components</h1>

@@ -11,10 +11,10 @@ function App() {
     <div>
       <NavBar/>
       <Routes>
-        <Route path="funcom" element={<Funcom></Funcom>}></Route>
-        <Route path="classcom" element={<Classcomp></Classcomp>}></Route>
+        {/* <Route path="funcom" element={<Funcom></Funcom>}></Route>
+        <Route path="classcom" element={<Classcomp></Classcomp>}></Route> */}
         <Route path="" element={<HomeComponents></HomeComponents>}></Route>
-        <Route path="*" element={<PageNot></PageNot>}></Route>
+        <Route path="*" element={<PageNot></PageNot>}></Route> 
       </Routes>
     </div>
   );
